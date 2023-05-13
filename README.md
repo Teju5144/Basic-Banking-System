@@ -1,1 +1,2 @@
 # Basic-Banking-System
+This the my first task in Web development intern at GRIP. I have hosted my website at XAMPP and populated data of 10 customers in sql with details like name, email, balance. We can view details of each customer using view button beside the user. For trasfering money click on transfer button and select receiver and transfer the desired amount, if the amount is more than balance it will show an alert saying enter amount less than or equal to balance else the transaction will be succesful. We can go back to all customers and see the balances are updated.
